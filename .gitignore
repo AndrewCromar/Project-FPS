@@ -1,0 +1,64 @@
+# Ignore the library directory
+[Ll]ibrary/
+
+# Ignore the temporary build files
+[Tt]emp/
+
+# Ignore the build directory
+[Bb]uild/
+
+# Ignore the obj directory
+[Oo]bj/
+
+# Ignore the crash reports directory
+[Cc]rash[Rr]eports/
+
+# Ignore the user specific settings
+UserSettings/
+
+# Ignore the auto-generated Visual Studio solution and project files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignore the Unity generated file on crash reports
+sysinfo.txt
+
+# Ignore the Unity build log file
+build_log.txt
+
+# Ignore the Unity asset server config file
+/Assets/AssetStoreTools*
+
+# Ignore the .idea folder (JetBrains Rider)
+.idea/
+
+# Ignore the JetBrains Rider specific files
+*.csproj.DotSettings
+.idea/
+
+# Ignore the OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore the logs directory
+Logs/
+
+# Ignore the Unity Cache directory
+/[Cc]ache/
+
+# Ignore the Asset Store tools
+/[Aa]ssets/AssetStoreTools*
